@@ -13,6 +13,7 @@
 		D7E9452522B879C700D0C65A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7E9452422B879C700D0C65A /* Assets.xcassets */; };
 		D7E9452822B879C700D0C65A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7E9452622B879C700D0C65A /* LaunchScreen.storyboard */; };
 		D7E9453322B879C700D0C65A /* GettingStartedFollowAlongTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7E9453222B879C700D0C65A /* GettingStartedFollowAlongTests.swift */; };
+		DAF7895E22CBCC59002DBAEF /* GitTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAF7895D22CBCC59002DBAEF /* GitTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		D7E9452E22B879C700D0C65A /* GettingStartedFollowAlongTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GettingStartedFollowAlongTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7E9453222B879C700D0C65A /* GettingStartedFollowAlongTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GettingStartedFollowAlongTests.swift; sourceTree = "<group>"; };
 		D7E9453422B879C700D0C65A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DAF7895D22CBCC59002DBAEF /* GitTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				D7E9452422B879C700D0C65A /* Assets.xcassets */,
 				D7E9452622B879C700D0C65A /* LaunchScreen.storyboard */,
 				D7E9452922B879C700D0C65A /* Info.plist */,
+				DAF7895D22CBCC59002DBAEF /* GitTest.swift */,
 			);
 			path = GettingStartedFollowAlong;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D7E9452022B879C600D0C65A /* ViewController.swift in Sources */,
+				DAF7895E22CBCC59002DBAEF /* GitTest.swift in Sources */,
 				D7E9451E22B879C600D0C65A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
